@@ -394,3 +394,12 @@ footer {
     }
 
   }
+
+
+button:hover {
+    background-color: #B18BDD;
+}
+
+.button-cyan:hover {
+    background-color: #71C0D4;
+}
